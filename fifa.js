@@ -7550,7 +7550,7 @@ export const fifaData = [
     "Datetime": "25 Jun 1982 - 21:00",
     "Stage": "Group 5",
     "Stadium": "Luis Casanova",
-    "City": "Valencia",
+    "City": "Valencia", 
     "Home Team Name": "Northern Ireland",
     "Home Team Goals": 1,
     "Away Team Goals": 0,
